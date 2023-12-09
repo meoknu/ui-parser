@@ -1,0 +1,24 @@
+{
+    "images": [
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "A"
+        },
+        {
+            "id": 1,
+            "name": "P"
+        }
+    ],
+    "annotations": [
+    ],
+    "info": {
+        "year": 2023,
+        "version": "1.0",
+        "description": "",
+        "contributor": "Label Studio",
+        "url": "",
+        "date_created": "2023-12-07 20:03:03.373916"
+    }
+}
